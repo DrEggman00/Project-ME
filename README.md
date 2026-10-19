@@ -3,9 +3,9 @@
 > Publicação técnica aberta (open hardware / open source) com data de divulgação registrada neste repositório.
 > Licenças: **GNU GPL v3.0** (software), **CERN-OHL-S v2** (hardware) e **CC BY-SA 4.0** (documentação e imagens) — ver seção [Licença](#licença).
 
-**Autor:** Dr. Heinrich Stahlwerk
-**Data da primeira publicação:** 18/10/2026
-**Versão deste documento:** 0.2 (conceito)
+**Autor:** Dr. Heinrich Stahlwerk \
+**Data da primeira publicação:** 18/10/2026 \
+**Versão deste documento:** 0.2 (conceito) \
 **Status:** Conceito / Pré-protótipo
 
 ---
